@@ -6,6 +6,7 @@ class HelloTest {
 
 	@Test
 	void test() {
+		//initial test
 		HelloJenkins hello = new HelloJenkins();
 		String message = new String();
 		
